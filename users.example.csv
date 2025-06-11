@@ -1,0 +1,3 @@
+email,role,first_name,last_name,nickname,department,phone_number,title,tags
+ivanovuser1@example.com,user,Иван,Иванов,ivanov,Разработка,+79991234567,Backend Developer,backend;Вся компания;Разработка
+petrovauser2@example.com,admin,Анна,Петрова,,Маркетинг,,CMO,marketing;Вся компания;Руководство
